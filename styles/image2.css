@@ -1,0 +1,48 @@
+body {
+	font-family: sans-serif;
+  }
+  
+  img {
+	float: left;
+  }
+  
+  header h1 {
+	font-size: 200%;
+	color: orange;
+	text-shadow: 2px 2px 2px black;
+	font-style: italic;
+	margin-left: 100px;
+  }
+  header h4 {
+	font-size: 110%;
+	margin-left: 100px;
+  }
+  
+  h2::first-letter {
+	font-size: 200%;
+  }
+  
+  h3 {
+	font-size: 110%;
+  }
+  a {
+	color: orange;
+	font-weight: bold;
+  }
+  a:hover {
+	color: green;
+  }
+  
+  li {
+	height: 20px;
+  }
+  
+  h4 {
+	font-size: 95%;
+  }
+  
+  footer {
+	text-align: center;
+	font-size: 80%;
+  }
+  
